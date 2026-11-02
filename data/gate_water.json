@@ -1,0 +1,261 @@
+{
+ "S0-eq100": {
+  "frames": 801,
+  "frac_occupied": 0.2209737827715356,
+  "max_molecules": 1,
+  "n_molecules": 1,
+  "n_visits": 1,
+  "from_cavity": 1,
+  "from_cytoplasm": 0,
+  "to_cavity": 1,
+  "to_cytoplasm": 0,
+  "n_crossings": 0,
+  "n_crossing_molecules": 0,
+  "crossings": [],
+  "frac_wire": 0.0,
+  "frac_wire_to_pocket": 0.0,
+  "contacts": {
+   "n": 180,
+   "R_median": 0.12589611113071442,
+   "frac_R_below_water": 0.7611111111111111,
+   "d_og_median": 2.7421350210035627,
+   "frac_hbond": 1.0,
+   "n_og_mean": 2.661111111111111
+  }
+ },
+ "REP-S0-wet2": {
+  "frames": 1801,
+  "frac_occupied": 0.00277623542476402,
+  "max_molecules": 1,
+  "n_molecules": 1,
+  "n_visits": 1,
+  "from_cavity": 1,
+  "from_cytoplasm": 0,
+  "to_cavity": 1,
+  "to_cytoplasm": 0,
+  "n_crossings": 0,
+  "n_crossing_molecules": 0,
+  "crossings": [],
+  "frac_wire": 0.0,
+  "frac_wire_to_pocket": 0.0,
+  "contacts": {
+   "n": 12,
+   "R_median": 0.12984804809093475,
+   "frac_R_below_water": 0.5833333333333334,
+   "d_og_median": 2.683496892705323,
+   "frac_hbond": 0.9166666666666666,
+   "n_og_mean": 1.4166666666666667
+  }
+ },
+ "REP-S0-dry1": {
+  "frames": 1801,
+  "frac_occupied": 0.001110494169905608,
+  "max_molecules": 1,
+  "n_molecules": 1,
+  "n_visits": 1,
+  "from_cavity": 1,
+  "from_cytoplasm": 0,
+  "to_cavity": 1,
+  "to_cytoplasm": 0,
+  "n_crossings": 0,
+  "n_crossing_molecules": 0,
+  "crossings": [],
+  "frac_wire": 0.0,
+  "frac_wire_to_pocket": 0.0,
+  "contacts": {
+   "n": 11,
+   "R_median": 0.12042403221130371,
+   "frac_R_below_water": 0.6363636363636364,
+   "d_og_median": 2.706455125608309,
+   "frac_hbond": 1.0,
+   "n_og_mean": 1.6363636363636365
+  }
+ },
+ "REP-S0-wet1": {
+  "frames": 1801,
+  "frac_occupied": 0.5413659078289839,
+  "max_molecules": 3,
+  "n_molecules": 31,
+  "n_visits": 48,
+  "from_cavity": 6,
+  "from_cytoplasm": 37,
+  "to_cavity": 11,
+  "to_cytoplasm": 28,
+  "n_crossings": 7,
+  "n_crossing_molecules": 3,
+  "crossings": [
+   {
+    "mol": 10888,
+    "t_in": 36.5,
+    "t_out": 36.6,
+    "origin": "Y",
+    "exit": "C"
+   },
+   {
+    "mol": 10888,
+    "t_in": 36.8,
+    "t_out": 39.3,
+    "origin": "Y",
+    "exit": "C"
+   },
+   {
+    "mol": 26811,
+    "t_in": 38.4,
+    "t_out": 38.4,
+    "origin": "Y",
+    "exit": "C"
+   },
+   {
+    "mol": 26811,
+    "t_in": 38.6,
+    "t_out": 38.6,
+    "origin": "Y",
+    "exit": "C"
+   },
+   {
+    "mol": 26811,
+    "t_in": 38.9,
+    "t_out": 39.1,
+    "origin": "Y",
+    "exit": "C"
+   },
+   {
+    "mol": 26811,
+    "t_in": 39.4,
+    "t_out": 41.7,
+    "origin": "Y",
+    "exit": "C"
+   },
+   {
+    "mol": 21745,
+    "t_in": 41.6,
+    "t_out": 42.2,
+    "origin": "Y",
+    "exit": "C"
+   }
+  ],
+  "frac_wire": 0.0,
+  "frac_wire_to_pocket": 0.003886729594669628,
+  "contacts": {
+   "n": 231,
+   "R_median": 0.11768068373203278,
+   "frac_R_below_water": 0.70995670995671,
+   "d_og_median": 2.730221712943767,
+   "frac_hbond": 0.935064935064935,
+   "n_og_mean": 2.7965367965367967
+  }
+ },
+ "S2-eq100": {
+  "frames": 801,
+  "frac_occupied": 0.14232209737827714,
+  "max_molecules": 1,
+  "n_molecules": 3,
+  "n_visits": 4,
+  "from_cavity": 3,
+  "from_cytoplasm": 0,
+  "to_cavity": 4,
+  "to_cytoplasm": 0,
+  "n_crossings": 0,
+  "n_crossing_molecules": 0,
+  "crossings": [],
+  "frac_wire": 0.0,
+  "frac_wire_to_pocket": 0.0,
+  "contacts": {
+   "n": 115,
+   "R_median": 0.11929352581501007,
+   "frac_R_below_water": 0.8521739130434782,
+   "d_og_median": 2.7642870842486045,
+   "frac_hbond": 1.0,
+   "n_og_mean": 3.1478260869565218
+  }
+ },
+ "S3-eq100": {
+  "frames": 801,
+  "frac_occupied": 0.0,
+  "max_molecules": 0,
+  "n_molecules": 0,
+  "n_visits": 0,
+  "from_cavity": 0,
+  "from_cytoplasm": 0,
+  "to_cavity": 0,
+  "to_cytoplasm": 0,
+  "n_crossings": 0,
+  "n_crossing_molecules": 0,
+  "crossings": [],
+  "frac_wire": 0.0,
+  "frac_wire_to_pocket": 0.0,
+  "contacts": null
+ },
+ "REP-S3-wet1": {
+  "frames": 1801,
+  "frac_occupied": 0.12881732370905052,
+  "max_molecules": 1,
+  "n_molecules": 3,
+  "n_visits": 4,
+  "from_cavity": 3,
+  "from_cytoplasm": 0,
+  "to_cavity": 3,
+  "to_cytoplasm": 0,
+  "n_crossings": 0,
+  "n_crossing_molecules": 0,
+  "crossings": [],
+  "frac_wire": 0.0,
+  "frac_wire_to_pocket": 0.0,
+  "contacts": {
+   "n": 234,
+   "R_median": 0.11767218634486198,
+   "frac_R_below_water": 0.8034188034188035,
+   "d_og_median": 2.7473448283398714,
+   "frac_hbond": 1.0,
+   "n_og_mean": 2.9572649572649574
+  }
+ },
+ "REP-S3-wet2": {
+  "frames": 1801,
+  "frac_occupied": 0.019988895058300944,
+  "max_molecules": 1,
+  "n_molecules": 1,
+  "n_visits": 1,
+  "from_cavity": 0,
+  "from_cytoplasm": 0,
+  "to_cavity": 1,
+  "to_cytoplasm": 0,
+  "n_crossings": 0,
+  "n_crossing_molecules": 0,
+  "crossings": [],
+  "frac_wire": 0.0,
+  "frac_wire_to_pocket": 0.0,
+  "contacts": {
+   "n": 36,
+   "R_median": 0.11865174025297165,
+   "frac_R_below_water": 0.8055555555555556,
+   "d_og_median": 2.7508786241020307,
+   "frac_hbond": 1.0,
+   "n_og_mean": 3.3333333333333335
+  }
+ },
+ "REP-S3-dry2": {
+  "frames": 1801,
+  "frac_occupied": 0.028317601332593003,
+  "max_molecules": 1,
+  "n_molecules": 1,
+  "n_visits": 1,
+  "from_cavity": 1,
+  "from_cytoplasm": 0,
+  "to_cavity": 1,
+  "to_cytoplasm": 0,
+  "n_crossings": 0,
+  "n_crossing_molecules": 0,
+  "crossings": [],
+  "frac_wire": 0.0,
+  "frac_wire_to_pocket": 0.0,
+  "contacts": {
+   "n": 53,
+   "R_median": 0.14671805500984192,
+   "frac_R_below_water": 0.4339622641509434,
+   "d_og_median": 2.8265522744278386,
+   "frac_hbond": 0.9245283018867925,
+   "n_og_mean": 1.849056603773585
+  }
+ }
+}

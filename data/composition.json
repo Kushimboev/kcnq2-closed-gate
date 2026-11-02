@@ -1,0 +1,85 @@
+{
+ "S0": {
+  "total": 0.0,
+  "protein": 48.0,
+  "pip2": -64.0,
+  "pip2_n": 16,
+  "rtg_charge": 0.0,
+  "rtg_n": 0,
+  "k_bulk": 94,
+  "k_filter": 2,
+  "cl": 80,
+  "water": 29354,
+  "popc": 241,
+  "pope": 64,
+  "atoms": 147968,
+  "m_k": 0.18153889042409016,
+  "m_cl": 0.1512824086867418,
+  "pairs": 80,
+  "extra_k": 16,
+  "extra_cl": 0
+ },
+ "S2": {
+  "total": 0.0,
+  "protein": 48.0,
+  "pip2": -64.0,
+  "pip2_n": 16,
+  "rtg_charge": 0.0,
+  "rtg_n": 4,
+  "k_bulk": 94,
+  "k_filter": 2,
+  "cl": 80,
+  "water": 29354,
+  "popc": 241,
+  "pope": 64,
+  "atoms": 148128,
+  "m_k": 0.18153889042409016,
+  "m_cl": 0.1512824086867418,
+  "pairs": 80,
+  "extra_k": 16,
+  "extra_cl": 0,
+  "filter_sites": [
+   "S1",
+   "S3"
+  ],
+  "upper": {
+   "POPC": 161
+  },
+  "lower": {
+   "POPC": 80,
+   "POPE": 64,
+   "SAPI2": 16
+  }
+ },
+ "S3": {
+  "total": 0.0,
+  "protein": 48.0,
+  "pip2": 0.0,
+  "pip2_n": 0,
+  "rtg_charge": 0.0,
+  "rtg_n": 4,
+  "k_bulk": 82,
+  "k_filter": 2,
+  "cl": 132,
+  "water": 30504,
+  "popc": 256,
+  "pope": 64,
+  "atoms": 151228,
+  "m_k": 0.15285801913913422,
+  "m_cl": 0.24020545864721093,
+  "pairs": 84,
+  "extra_k": 0,
+  "extra_cl": 48,
+  "filter_sites": [
+   "S1",
+   "S3"
+  ],
+  "upper": {
+   "POPC": 160
+  },
+  "lower": {
+   "POPC": 96,
+   "POPE": 64
+  }
+ }
+}

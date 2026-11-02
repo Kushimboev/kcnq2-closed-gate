@@ -1,0 +1,7 @@
+replica_id,system,seed_time_ns,seed_N_w,gen_seed,ns
+REP-S0-dry1,S0,81.3,0,91108,200
+REP-S0-wet1,S0,85.0,2,91122,200
+REP-S0-wet2,S0,100.0,3,91129,200
+REP-S3-dry2,S3,100.0,0,91143,200
+REP-S3-wet1,S3,86.8,2,91150,200
+REP-S3-wet2,S3,89.8,2,91157,200
